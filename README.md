@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Information Systems Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- <b>Database Program using C#, CSS, and HTML (MySQL)</b>
+  - [Hospital Program](https://github.com/CTenorio19/Final-Project)
+- <b>ASP.NET Core + EF Core Professor App</b>
+  - [Razor Page App](https://github.com/wtamucis/lab-11-CTenorio19) 
 
 
