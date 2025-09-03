@@ -1,5 +1,7 @@
 ## Hello, I'm Christian! 👋
+<br/><a href="https://github.com/CTenorio19">Student</a>, <a href="https://www.linkedin.com/in/CTenorio19/">BBA in Computer Information Systems major</a></h1>
 
+<h2>👨‍💻 Information Systems Development Projects:</h2>
 <!--
 **CTenorio19/CTenorio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
