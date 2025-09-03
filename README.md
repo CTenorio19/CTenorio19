@@ -1,5 +1,4 @@
-## Hello, I'm Christian! 👋
-<br/><a href="https://github.com/CTenorio19">Student</a>, <a href="https://www.linkedin.com/in/CTenorio19/">BBA in Computer Information Systems major</a></h1>
+## Hello, I'm Christian! 👋 <br/><a href="https://github.com/CTenorio19">Student</a>, <a href="https://www.linkedin.com/in/CTenorio19/">BBA in Computer Information Systems major</a></h1>
 
 <h2>👨‍💻 Information Systems Development Projects:</h2>
 <!--
