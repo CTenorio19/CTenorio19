@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Systems Development Projects:</h2>
 
+- <b>AI Created Webpage using HTML and applying Github Copilot on VS Code</b>
+  - [AI Created Webpage](https://github.com/CTenorio19/AI-Created-Webpage)
+- <b>VPN Checklist made for Network Administrators utilizing AI for optimization</b>
+  - [VPN Checklist](https://github.com/CTenorio19/vpn-checklist)
 - <b>Database Program using C#, CSS, and HTML (MySQL)</b>
   - [Hospital Program](https://github.com/CTenorio19/Final-Project)
 - <b>ASP.NET Core + EF Core Professor App</b>
