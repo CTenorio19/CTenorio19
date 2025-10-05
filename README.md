@@ -7,7 +7,7 @@
 - <b>VPN Checklist made for Network Administrators utilizing AI for optimization</b>
   - [VPN Checklist](https://github.com/CTenorio19/vpn-checklist)
 - <b>Database Program using C#, CSS, and HTML (MySQL)</b>
-  - [Hospital Program](https://github.com/CTenorio19/Final-Project)
+  - [Store Program](https://github.com/CTenorio19/Final-Project)
 - <b>ASP.NET Core + EF Core Professor App</b>
   - [Razor Page App](https://github.com/wtamucis/lab-11-CTenorio19) 
 
